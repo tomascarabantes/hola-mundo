@@ -1,2 +1,2 @@
 # hola-mundo
-práctica de github. Aprendiendop a usar la plataforma.
+práctica de github. Aprendiendo a usar la plataforma.
